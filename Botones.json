@@ -1,10 +1,10 @@
-﻿
-  {
-        "buttons": [
-            { "name": "ButtonRikoRikos" },
-            { "name": "ButtonNovis" },
-            { "name": "ButtonElTriskel" },
-            { "name": "ButtonDoraditos" },
-            { "name": "ButtonSanducheros" }
-        ]
+﻿{
+    "buttons":
+    [
+        { "name": "ButtonRikoRikos" },
+        { "name": "ButtonNovis" },
+        { "name": "ButtonElTriskel" },
+        { "name": "ButtonDoraditos" },
+        { "name": "ButtonSanducheros" }
+    ]
    }
