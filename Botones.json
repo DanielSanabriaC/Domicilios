@@ -1,6 +1,7 @@
 ﻿{
     "buttons":
     [
+        { "name": "ButtonJessBurger" },
         { "name": "ButtonElTriskel" },
         { "name": "ButtonDoraditos" },
         { "name": "ButtonNovis" },
