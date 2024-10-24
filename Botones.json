@@ -1,7 +1,7 @@
 ﻿{
     "buttons":
     [
-        { "name": "ButtonDesayunosSorpresa" },
+        { "name": "ButtonLaOvejaYElLobo" },
         { "name": "ButtonLianPizza" },
         { "name": "ButtonJessBurger" },
         { "name": "ButtonRikoRikos" },
@@ -19,6 +19,7 @@
          { "name": "ButtonAutenticoBroaster" },
          { "name": "ButtonKrokantico" },
          { "name": "ButtonLa13ArepaRellena" },
+         { "name": "ButtonDesayunosSorpresa" },
          { "name": "ButtonPikoRiko" }
     ]
    }
