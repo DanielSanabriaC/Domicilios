@@ -1,11 +1,11 @@
 ﻿{
     "buttons":
     [
-        { "name": "ButtonLaOvejaYElLobo" },
-        { "name": "ButtonLianPizza" },
+        { "name": "ButtonChurrosYBubbles" },
+        { "name": "ButtonSubway" },
         { "name": "ButtonJessBurger" },
         { "name": "ButtonRikoRikos" },
-        { "name": "ButtonSubway" },
+        { "name": "ButtonLianPizza" },
         { "name": "ButtonDoraditos" }, 
         { "name": "ButtonMeraTaqueria" },
         { "name": "ButtonNovis" },
@@ -14,7 +14,7 @@
         { "name": "ButtonMustacho" },
         { "name": "ButtonMiRanchito" },
         { "name": "ButtonParrillaReal" },
-        { "name": "ButtonChurrosYBubbles" },
+        { "name": "ButtonLaOvejaYElLobo" },
          { "name": "ButtonFuteriaCherry" },
          { "name": "ButtonAutenticoBroaster" },
          { "name": "ButtonKrokantico" },
