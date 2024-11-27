@@ -1,6 +1,8 @@
 ﻿{
     "buttons":
     [
+        { "name": "ButtonLa13ArepaRellena" },
+        { "name": "ButtonLaOvejaYElLobo" },
         { "name": "ButtonChurrosYBubbles" },
         { "name": "ButtonSubway" },
         { "name": "ButtonJessBurger" },
@@ -14,11 +16,9 @@
         { "name": "ButtonMustacho" },
         { "name": "ButtonMiRanchito" },
         { "name": "ButtonParrillaReal" },
-        { "name": "ButtonLaOvejaYElLobo" },
          { "name": "ButtonFuteriaCherry" },
          { "name": "ButtonAutenticoBroaster" },
          { "name": "ButtonKrokantico" },
-         { "name": "ButtonLa13ArepaRellena" },
          { "name": "ButtonDesayunosSorpresa" },
          { "name": "ButtonPikoRiko" }
     ]
