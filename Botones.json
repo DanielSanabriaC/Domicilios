@@ -1,8 +1,9 @@
 ﻿{
     "buttons":
     [
+        { "name": "ButtonCoffeLato" },
+         { "name": "ButtonLaOvejaYElLobo" },
         { "name": "ButtonLa13ArepaRellena" },
-        { "name": "ButtonLaOvejaYElLobo" },
         { "name": "ButtonChurrosYBubbles" },
         { "name": "ButtonSubway" },
         { "name": "ButtonJessBurger" },
