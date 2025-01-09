@@ -2,8 +2,8 @@
     "buttons":
     [
         { "name": "ButtonCoffeLato" },
-         { "name": "ButtonLaOvejaYElLobo" },
-        { "name": "ButtonLa13ArepaRellena" },
+         { "name": "ButtonNovis" },
+        { "name": "ButtonPikoRiko" },
         { "name": "ButtonBeerExpress" },
         { "name": "ButtonChurrosYBubbles" },
         { "name": "ButtonSubway" },
@@ -12,8 +12,9 @@
         { "name": "ButtonLianPizza" },
         { "name": "ButtonDoraditos" }, 
         { "name": "ButtonMeraTaqueria" },
-        { "name": "ButtonNovis" },
         { "name": "ButtonElTriskel" },
+         { "name": "ButtonLa13ArepaRellena" },
+         { "name": "ButtonLaOvejaYElLobo" },
         { "name": "ButtonSalsipuedes" },
         { "name": "ButtonMustacho" },
         { "name": "ButtonMiRanchito" },
@@ -21,7 +22,7 @@
          { "name": "ButtonFuteriaCherry" },
          { "name": "ButtonAutenticoBroaster" },
          { "name": "ButtonKrokantico" },
-         { "name": "ButtonDesayunosSorpresa" },
-         { "name": "ButtonPikoRiko" }
+         { "name": "ButtonDesayunosSorpresa" }
+        
     ]
    }
